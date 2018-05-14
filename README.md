@@ -23,7 +23,7 @@ If the html file you're editing is referencing muliptile css files and javascrip
 <section id="howtoapply">
 ```
 
-Once you've updated a file and want to reference either replace the url for the custom-page_styles.css file or add your new css file before the <div class"seacherBar> (if the page has one) or first <section> of the landing page. You're new link structure with be <https://<strong>username</strong>.github.io/cvs-career-site/<strong>file-name<strong>.css>
+Once you've updated a file and want to reference either replace the url for the custom-page_styles.css file or add your new css file before the <div class"seacherBar> (if the page has one) or first <section> of the landing page. You're new link structure with be https://<strong>username</strong>.github.io/cvs-career-site/<strong>file-name</strong>.css
 
 ### Still need help?
 
