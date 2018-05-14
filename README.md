@@ -7,7 +7,7 @@ This is the main css file to edit that overrides or adds existing styles to the 
 
 ### Lity, OwlCarousel, & RoyalSlider
 
-These are all third-party css and javascript plugins to add dynamic elements to certain pages like carousels and lightboxes.
+These are all third-party css and javascript plugins to add dynamic elements to certain pages like carousels and lightboxes. It is recommended to not make edits to these files but instead override styles in the custom-page_styles.css file.
 
 ### Need help?
 
