@@ -2872,6 +2872,7 @@
     width: 80%;
     margin: 0 auto;
     list-style: none;
+    text-align: center;
 }
 
 
@@ -2888,7 +2889,7 @@
 
 @media screen and (min-width: 800px) {
 #military .military-profiles ul>li {
-    width: 28% !important;
+    width: 18% !important;
     margin:0 auto 20px;
     text-align: center;
 }
@@ -2896,7 +2897,7 @@
 
 #military .military-profiles ul>li p {
     color: #c00;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
     display: block;
     text-align: center;
