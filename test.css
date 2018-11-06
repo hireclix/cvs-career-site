@@ -7584,7 +7584,7 @@ ul.quick-facts li::before, ul.nine-cities li::before {
 }
 }
 
-}
+
 @media (min-width: 1000px) {
 #nursing .intro .content-wrapper {
     width: calc(70% - 70px) !important;
@@ -8264,7 +8264,7 @@ ul.quick-facts li::before, ul.nine-cities li::before {
 
 #smit .image-container {
 		border: 0;
-		display: inline-block; !important
+		display: inline-block !important;
 		position: relative !important;
     width: 100%;
 	   height: 100%;
@@ -8819,9 +8819,3 @@ ul.quick-facts li::before, ul.nine-cities li::before {
     margin-bottom: 0;
   }
 }
-	
-Viewport
-Window
-×
-×
-×
