@@ -8754,27 +8754,11 @@ ul.quick-facts li::before, ul.nine-cities li::before {
 /* Pharm Tech Employee Spotlight Section */
 
 .espotlight {
-  margin: 2em 0 32px;
+  padding: 2em;
   width: 100%;
   background: #fff;
 }
 
-/*.espotlight .content-wrapper:nth-of-type(1) {
-  padding: 3rem 1rem 0;
-}
-@media screen and (min-width: 751px) {
-  .espotlight .content-wrapper:nth-of-type(1) {
-    padding: 32px;
-  }
-}
-.espotlight .content-wrapper:nth-of-type(2) {
-  padding: 0 1rem;
-}
-@media screen and (min-width: 751px) {
-  .espotlight .content-wrapper:nth-of-type(2) {
-    padding: 32px;
-  }
-}*/
 @media only screen and (min-width: 751px) {
   .espotlight .content-wrapper {
     display: flex;
