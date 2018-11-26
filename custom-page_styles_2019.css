@@ -8759,6 +8759,12 @@ ul.quick-facts li::before, ul.nine-cities li::before {
   background: #fff;
 }
 
+@media only screen and (max-width: 751px) {
+    .espotlight {
+  padding: 2em 0;
+    }
+}
+
 @media only screen and (min-width: 751px) {
   .espotlight .content-wrapper {
     display: flex;
